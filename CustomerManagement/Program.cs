@@ -5,7 +5,7 @@ namespace CustomerManagement
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var turbolist = new TurboList<float>();
             turbolist.Add(3f);
